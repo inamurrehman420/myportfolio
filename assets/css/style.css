@@ -12782,7 +12782,7 @@ div#featured-project-carousel {
       width: 100%;
       transition: var(--transition);
       height: auto;
-      object-fit: cover; }
+      object-fit: contain; }
       @media only screen and (min-width: 768px) and (max-width: 991px) {
         .rn-portfolio .inner .thumbnail a img,
         .rn-blog .inner .thumbnail a img {
